@@ -4,7 +4,7 @@ import './VideoRow.css'
 function VideoRow({views,sub,description,timestamp,channel,title,image}) {
     return (
         <div className="VideoRow">
-            {/* <h5>Latest from Jhankar Mahbub</h5> */}
+         
             <img src={image} alt="" />
             <div className="videoRow_text">
                 <h4>{title}</h4>
