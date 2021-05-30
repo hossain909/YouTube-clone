@@ -55,7 +55,25 @@ function SearchPage() {
                title='কমপ্লিট পাইথন প্রজেক্ট ।। নিজে নিজে বানিয়ে ফেলো Microsoft Word এর মতো প্রজেক্ট || পাইথন টিউটোরিয়াল'
                channel='Jhankar Mahbub'
                image='https://i.ibb.co/F5HChyt/hqdefault-1.webp'
-           />       
+           />
+                   <VideoRow
+               views='1.4M'
+               sub='300k'
+               description='ফ্রি অডিওবুক বানাও ।। জাস্ট ১২ লাইন পাইথন এর কোড লিখে ।। যেকোন pdf কে অডিওবুক বানিয়ে ফেলো || Python '
+               timestamp='1 week ago'
+               title='কমপ্লিট পাইথন প্রজেক্ট ।। নিজে নিজে বানিয়ে ফেলো Microsoft Word এর মতো প্রজেক্ট || পাইথন টিউটোরিয়াল'
+               channel='Jhankar Mahbub'
+               image='https://i.ibb.co/F5HChyt/hqdefault-1.webp'
+           />
+           <VideoRow
+               views='1.4M'
+               sub='300k'
+               description='ফ্রি অডিওবুক বানাও ।। জাস্ট ১২ লাইন পাইথন এর কোড লিখে ।। যেকোন pdf কে অডিওবুক বানিয়ে ফেলো || Python '
+               timestamp='1 week ago'
+               title='কমপ্লিট পাইথন প্রজেক্ট ।। নিজে নিজে বানিয়ে ফেলো Microsoft Word এর মতো প্রজেক্ট || পাইথন টিউটোরিয়াল'
+               channel='Jhankar Mahbub'
+               image='https://i.ibb.co/F5HChyt/hqdefault-1.webp'
+           />
                    
             <VideoRow
                views='1.4M'
