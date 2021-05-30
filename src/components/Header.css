@@ -1,0 +1,43 @@
+.header{
+display:flex;
+align-items: center;
+justify-content:space-between;
+padding: 20px;
+position: sticky;
+top:0;
+z-index: 100;
+background-color:white;
+}
+.header__logo{
+height: 25px;
+object-fit: contain;
+margin-left: 20px;
+
+}
+.avaterStyle{
+    height: 30px;
+    border-radius: 50%;
+}
+.header-input{
+    display: flex;
+    align-items:center;
+    width:40%;
+    border:1px solid lightgrey;
+}
+.right-header{
+    display: flex;
+    align-items:center;
+}
+.header-input > input{
+flex: 1;
+border:none;
+}
+.searchButton{
+    width: 50px ! important;
+    border-left: 1px solid lightgrey;
+    background-color: #fafafa;
+    color:grey;
+}
+.header_Icons{
+    margin-right: 10px;
+}
